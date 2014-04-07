@@ -1,3 +1,6 @@
 .idea/
 .metadata/
 videostore.iml
+.settings/
+.classpath
+.project
