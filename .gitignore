@@ -4,3 +4,15 @@ videostore.iml
 .settings/
 .classpath
 .project
+
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
