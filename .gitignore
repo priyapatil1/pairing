@@ -4,6 +4,7 @@ videostore.iml
 .settings/
 .classpath
 .project
+**/target/
 
 *.suo
 *.user
