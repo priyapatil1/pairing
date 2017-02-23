@@ -20,7 +20,7 @@ public class Customer {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
         Enumeration rentals = this.rentals.elements();
-        String result = "com.example.videostore.Rental Record for " + getName() + "\n";
+        String result = "Rental Record for " + getName() + "\n";
 
         while (rentals.hasMoreElements()) {
             double thisAmount = 0;
